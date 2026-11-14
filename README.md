@@ -1,1 +1,1 @@
-# My.projects
+This repository contains all my projects, with the complete code and documentation for each one in its own folder. Every project explains the problem it solves, the dataset used, the steps followed from data cleaning to model building and evaluation, and the final results, so anyone can understand and run it easily. I will keep adding new projects here as I continue learning and improving my skills.
